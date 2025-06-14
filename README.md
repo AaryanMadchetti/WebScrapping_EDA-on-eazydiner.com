@@ -95,7 +95,7 @@ This project strengthened my practical understanding of:
 ├── 📄 EDAandDV.ipynb # EDA and visualizations
 ├── 📄 restaurant_data.csv # Raw extracted dataset
 ├── 📄 rest_cleandata.csv # Cleaned dataset
-├── 📄 myPPT.pptx # Project presentation
+├── 📄 project_ppt.pptx # Project presentation
 └── 📄 README.md # Documentation
 
 ---
