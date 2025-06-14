@@ -77,7 +77,6 @@ The goal of this project is to:
 ## 📷 Screenshots / Visuals
 
 📈 Included in the `EDAandDV.ipynb` notebook and project presentation.  
-(You can attach visuals or link to a hosted presentation/PDF here)
 
 ---
 
